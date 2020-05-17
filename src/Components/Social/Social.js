@@ -80,7 +80,7 @@ class Social extends Component {
 		<div>
 		<div class="cover bg-left bg-center-l background">
          <div className="flex flex-wrap justify-between">
-         <h1 className="tl color pb4 mb4 pt1 ma4 f2">{this.state.title}</h1>
+         <h1 className="tl color pb4 mb4 pt1 f2">{this.state.title}</h1>
          <p className="black-80 w-60-l w-90-m w-90-ns pa4">{this.state.stitle}</p>
          </div>
          </div>
